@@ -12,6 +12,7 @@ It takes notes...
 - [Usage Information](#Usage-Information)
 - [Installation Process](#Installation)
 - [What I Learned](#What-I-Learned)
+- [Credits](#credits)
 - [License](#License)
 - [Author](#Author)
 
@@ -67,8 +68,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 - How to effectily use Express and Node.js
 - The usage of ports
 - how to take and save notes in a browser
+- How to instal a delete button.
 
+## Credits
 
+- Speed Run "Mod-11" by Drew Hoang
 
 
 ## License 
